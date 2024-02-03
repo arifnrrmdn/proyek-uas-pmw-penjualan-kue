@@ -80,7 +80,9 @@ if (!isset($_POST['submit']))
       $jumlah = $_POST['jumlah'];
       $harga = $_POST['harga'];
 
-      $query = "UPDATE transaksi SET nama_pembeli = '$nama_pembeli', nomor_pembeli = '$nomor_pembeli', email_pembeli = '$email_pembeli', nama_produk = '$nama_produk', deskripsi_produk = '$deskripsi_produk', jumlah = '$jumlah', harga = '$harga' WHERE no = '$no'";
+       $total_harga = $jumlah * $harga;
+
+      $query = "UPDATE transaksi SET nama_pembeli = '$nama_pembeli', nomor_pembeli = '$nomor_pembeli', email_pembeli = '$email_pembeli', nama_produk = '$nama_produk', deskripsi_produk = '$deskripsi_produk', jumlah = '$jumlah', harga = '$harga', total_harga = '$total_harga' WHERE no = '$no'";
 
       $result = mysqli_query($koneksi, $query);
 
