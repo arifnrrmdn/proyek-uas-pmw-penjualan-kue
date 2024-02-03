@@ -2,7 +2,7 @@
 
 NIM : 10522014 <br>
 Nama : Arif Nur Ramadhan<br>
-Posisi : Fullstack
+Posisi : Lead & Fullstack
 
 NIM : 10522011 <br>
 Nama : Azhira Aishara <br>
