@@ -1,13 +1,16 @@
 ## TUGAS UAS PMW
 
 NIM : 10522014 <br>
-Nama : Arif Nur Ramadhan
+Nama : Arif Nur Ramadhan<br>
+Posisi : Fullstack
 
-NIM : 10522011
-Nama : Azhira Aishara
+NIM : 10522011 <br>
+Nama : Azhira Aishara <br>
+Posisi : Design & Frontend
 
-NIM : 
-Nama : Desty Nurzahra
+NIM : 10522003 <br>
+Nama : Desty Nurzahra <br>
+Posisi : Design & Frontend
 
 ## Screenshot
 ![Screenshot from 2024-02-03 13-30-26](https://github.com/arifnrrmdn/proyek-uas-pmw-penjualan-kue/assets/91766087/c929e177-dbfb-4a25-a17f-6e42f6963cf4)
