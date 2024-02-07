@@ -12,6 +12,9 @@ NIM : 10522003 <br>
 Nama : Desty Nurzahra <br>
 Posisi : Design & Frontend
 
+link website :
+http://lacchococakedemo.great-site.net
+
 ## Screenshot
 ![Screenshot from 2024-02-03 13-30-06](https://github.com/arifnrrmdn/proyek-uas-pmw-penjualan-kue/assets/91766087/bf128354-54a8-46ed-a26f-7821a39f9ccf)
 ![Screenshot from 2024-02-03 13-30-26](https://github.com/arifnrrmdn/proyek-uas-pmw-penjualan-kue/assets/91766087/c929e177-dbfb-4a25-a17f-6e42f6963cf4)
