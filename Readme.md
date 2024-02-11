@@ -3,6 +3,9 @@
 Tema : Penjualan Kue <br>
 Brand : Lacchoco Cake
 
+link website :
+http://lacchococakedemo.great-site.net
+
 
 NIM : 10522014 <br>
 Nama : Arif Nur Ramadhan<br>
@@ -16,8 +19,7 @@ NIM : 10522003 <br>
 Nama : Desty Nurzahra <br>
 Posisi : Design & Frontend
 
-link website :
-http://lacchococakedemo.great-site.net
+
 
 ## Screenshot
 ![Screenshot from 2024-02-03 13-30-06](https://github.com/arifnrrmdn/proyek-uas-pmw-penjualan-kue/assets/91766087/bf128354-54a8-46ed-a26f-7821a39f9ccf)
