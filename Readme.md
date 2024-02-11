@@ -1,8 +1,7 @@
 ## TUGAS UAS KELOMPOK PMW
 
 Tema : Penjualan Kue <br>
-Brand : Lacchoco Cake
-
+Brand : Lacchoco Cake <br>
 link website :
 http://lacchococakedemo.great-site.net
 
