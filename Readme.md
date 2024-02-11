@@ -6,17 +6,17 @@ link website :
 http://lacchococakedemo.great-site.net
 
 
-NIM : 10522014 <br>
-Nama : Arif Nur Ramadhan<br>
-Posisi : Lead & Fullstack
+NIM : 10522003 <br>
+Nama : Desty Nurzahra <br>
+Posisi : Design & Frontend
 
 NIM : 10522011 <br>
 Nama : Azhira Aishara <br>
 Posisi : Design & Frontend
 
-NIM : 10522003 <br>
-Nama : Desty Nurzahra <br>
-Posisi : Design & Frontend
+NIM : 10522014 <br>
+Nama : Arif Nur Ramadhan<br>
+Posisi : Lead & Fullstack
 
 
 
